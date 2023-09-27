@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "fos",
+			"path": "fos"
+		},
+		{
+			"name": "FOSB",
+			"path": "FOSB"
+		}
+	],
+	"settings": {}
+}
